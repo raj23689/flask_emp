@@ -80,3 +80,21 @@ if __name__ == '__main__':
 ```
 
 This block runs the Flask app only when the script is executed directly (not imported as a module). The app is set to run on `localhost` at port `9000`.
+
+Here are some examples:
+
+- `ENO` not found
+
+    <img src="./Images/ENO_found.png" />
+
+- `ENO=4`
+
+    <img src="./Images/ENO_found.png" />
+
+- `DNAME=Sales`
+
+    <img src="./Images/DNAME_Sales.png" />
+
+- `DNAME=Admin`
+
+    <img src="./Images/DNAME_admin.png" />
