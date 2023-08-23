@@ -85,7 +85,7 @@ Here are some examples:
 
 - `ENO` not found
 
-    <img src="./Images/ENO_found.png" />
+    <img src="./Images/ENO_notfound.png" />
 
 - `ENO=4`
 
