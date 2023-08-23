@@ -83,6 +83,8 @@ This block runs the Flask app only when the script is executed directly (not imp
 
 Here are some examples:
 
+The JSON file for the below requests are here : [emp_json](./emp_basic.postman_collection.json)
+
 - `ENO` not found
 
     <img src="./Images/ENO_notfound.png" />
